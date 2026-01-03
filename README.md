@@ -1,1 +1,1 @@
-# go-backend-course
+# Go Backend Mastery Course
